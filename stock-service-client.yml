@@ -12,4 +12,4 @@ service:
 eureka:
   client:
     service-url:
-      defaultZone: https://eureka-service-grateful-ratel.cfapps.io/
+      defaultZone: https://eureka-service-grateful-ratel.cfapps.io:8761/
