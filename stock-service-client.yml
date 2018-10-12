@@ -8,3 +8,8 @@ management:
 service:
   instance:
     name: test
+
+eureka:
+  client:
+    service-url:
+      defaultZone: https://eureka-service-grateful-ratel.cfapps.io/
